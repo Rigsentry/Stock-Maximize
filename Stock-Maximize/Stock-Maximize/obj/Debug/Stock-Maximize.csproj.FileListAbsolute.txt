@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Stock-Maximize\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Stock-Maximize\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Stock-Maximize\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Stock-Maximize\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Stock-Maximize\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Stock-Maximize\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Stock-Maximize\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.pdb
