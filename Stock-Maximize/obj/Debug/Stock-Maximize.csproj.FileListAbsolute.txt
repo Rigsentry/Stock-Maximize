@@ -1,0 +1,14 @@
+C:\work-not-shared\2021\codechallenge\Xor-sequence\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.exe.config
+C:\work-not-shared\2021\codechallenge\Xor-sequence\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.exe
+C:\work-not-shared\2021\codechallenge\Xor-sequence\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.pdb
+C:\work-not-shared\2021\codechallenge\Xor-sequence\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.csprojAssemblyReference.cache
+C:\work-not-shared\2021\codechallenge\Xor-sequence\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2021\codechallenge\Xor-sequence\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.exe
+C:\work-not-shared\2021\codechallenge\Xor-sequence\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.pdb
+C:\work-not-shared\2021\codechallenge\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.exe.config
+C:\work-not-shared\2021\codechallenge\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.exe
+C:\work-not-shared\2021\codechallenge\Stock-Maximize\Stock-Maximize\bin\Debug\Stock-Maximize.pdb
+C:\work-not-shared\2021\codechallenge\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.csprojAssemblyReference.cache
+C:\work-not-shared\2021\codechallenge\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2021\codechallenge\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.exe
+C:\work-not-shared\2021\codechallenge\Stock-Maximize\Stock-Maximize\obj\Debug\Stock-Maximize.pdb
