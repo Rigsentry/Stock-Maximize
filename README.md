@@ -15,7 +15,7 @@ prices = [2, 1]
 No profit can be made so you do not buy or sell stock those days. Return **0**.
 
 ## Function Description
-Complete the stockmax function in the editor below.
+Complete the stockmax function.
 
 stockmax has the following parameter(s):
 
